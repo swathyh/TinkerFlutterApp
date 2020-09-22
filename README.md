@@ -1,4 +1,4 @@
-# WallpaperApp
+# screenApp
 
 A new Flutter project.
 
